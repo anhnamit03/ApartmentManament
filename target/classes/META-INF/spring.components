@@ -1,0 +1,2 @@
+com.hvn.controllers.HomeController=org.springframework.stereotype.Component
+com.hvn.nam.WebApplicationContextConfig=org.springframework.stereotype.Component
